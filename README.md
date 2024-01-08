@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **FSW**
 
-- 💬 Ask me about **every think related to front-endd**
+- 💬 Ask me about **everything related to web-development**
 
 - 📫 How to reach me **salman.m.moussaa@gmail.com**
 
